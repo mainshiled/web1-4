@@ -1,15 +1,28 @@
 @charset "UTF-8";
  body
  {
+  background-image:ur1(IMG_0963[1].JPG);
 background-color:#ff99ff;
-background-image:ur1(IMG_0963[1].JPG);
+  background-repeat:repeat-x;
 }
 
  h1{
- font-size:2.0em;
+ font-size:7.0em;
  color:#3366ff;
  text-align:center;
  }
+
+p{
+ font-size:5.0em;
+ color:#3366ff;
+ line-height:2.02m;
+}
+
+p span{
+ font-size:7.0em;
+ color:#3366ff;
+}
+ 
 #foo{
  font-size:3.0em;
  color:#009900;
@@ -18,8 +31,8 @@ background-image:ur1(IMG_0963[1].JPG);
   margin-bottom:0;
   padding:5px 10px;
  }
- p{
- font-size:1.5em;
+ .goroku{
+ font-size:2.0em;
  color:#b6ff01;
  line-height:1.55em;
  }
