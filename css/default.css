@@ -13,8 +13,8 @@ background-image:ur1(IMG_0963[1].JPG);
 #foo{
  font-size:1.4em;
  color:#009900;
-  border:#0000ff 5px dotted;
-  border-left:#114514 1px solid;
+  border:#0000ff 2px dotted;
+  border-left:#114514 5px solid;
   margin-bottom:0;
   padding:10px 20px;
  }
