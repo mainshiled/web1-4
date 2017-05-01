@@ -1,0 +1,25 @@
+@charset "UTF-8";
+ body
+ {
+background-color:#ff99ff;
+  background-image:ur1(IMG_0963[1].JPG)
+}
+
+ h1{
+ font-size:1.6em;
+ color:#3366ff;
+ text-align:left;
+ }
+#foo{
+ font-size:1.4em;
+ color:#009900;
+  border:#0000ff 5px dotted;
+  border-left:#114514 10px solid;
+  margin-bottom:0;
+  padding:10px 20px;
+ }
+ p{
+ font-size:0.8em;
+ color:#b6ff01;
+ line-height:1.55em;
+ }
