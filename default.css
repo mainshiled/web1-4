@@ -1,0 +1,20 @@
+ @charset "UTF-8";
+ body
+ {
+background-color:#ff99ff;
+}
+
+ h1{
+ fornt-size:1.5em;
+ color:#3366ff;
+ text-align:senter;
+ }
+ h2{
+ front-size:1.5em;
+ color:#009900;
+ }
+ p{
+ front-size:0.8em;
+ color;#000000
+ line-height:1.55em;
+ }
