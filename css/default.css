@@ -6,20 +6,20 @@ background-image:ur1(IMG_0963[1].JPG);
 }
 
  h1{
- font-size:1.6em;
+ font-size:2.0em;
  color:#3366ff;
  text-align:center;
  }
 #foo{
- font-size:1.4em;
+ font-size:3.0em;
  color:#009900;
-  border:#0000ff 2px dotted;
-  border-left:#114514 10px solid;
+  border:#0000ff 3px dotted;
+  border-left:#114514 20px solid;
   margin-bottom:0;
   padding:5px 10px;
  }
  p{
- font-size:0.8em;
+ font-size:1.5em;
  color:#b6ff01;
  line-height:1.55em;
  }
