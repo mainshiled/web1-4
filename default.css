@@ -2,19 +2,24 @@
  body
  {
 background-color:#ff99ff;
+  background-image:ur1(IMG_0963[1].JPG)
 }
 
  h1{
- fornt-size:1.5em;
+ font-size:1.6em;
  color:#3366ff;
- text-align:senter;
+ text-align:left;
  }
- h2{
- front-size:1.5em;
+ #810{
+ font-size:1.4em;
  color:#009900;
+  border:#0000ff 5px dotted;
+  border-left:#114514 10px solid;
+  margin-bottom:0;
+  padding:10px 20px;
  }
  p{
- front-size:0.8em;
- color;#000000
+ font-size:0.8em;
+ color:#b6ff01;
  line-height:1.55em;
  }
