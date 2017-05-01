@@ -1,4 +1,4 @@
- @charset "UTF-8";
+@charset "UTF-8";
  body
  {
 background-color:#ff99ff;
@@ -10,7 +10,7 @@ background-color:#ff99ff;
  color:#3366ff;
  text-align:left;
  }
- #810{
+#foo{
  font-size:1.4em;
  color:#009900;
   border:#0000ff 5px dotted;
